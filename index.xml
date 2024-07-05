@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Yalyenea</title>
+    <link>https://yalyenea.github.io/</link>
+    <description>Recent content on Yalyenea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:01:01 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 00:01:01 +0800</lastBuildDate><atom:link href="https://yalyenea.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poem</title>
-      <link>https://example.org/posts/poem/</link>
+      <link>https://yalyenea.github.io/posts/poem/</link>
       <pubDate>Mon, 01 Jul 2024 00:01:01 +0800</pubDate>
       
-      <guid>https://example.org/posts/poem/</guid>
+      <guid>https://yalyenea.github.io/posts/poem/</guid>
       
       <description>春江花月夜 春江潮水连海平，海上明月共潮生。
 滟滟随波千万里，何处春江无月明！
