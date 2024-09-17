@@ -2,29 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yalyenea</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yalyenea.github.io/</link>
     <description>Recent content on Yalyenea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2024 23:25:26 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 23:25:26 +0800</lastBuildDate><atom:link href="https://yalyenea.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>中秋节</title>
-      <link>http://localhost:1313/posts/%E4%B8%AD%E7%A7%8B%E8%8A%82/</link>
+      <link>https://yalyenea.github.io/posts/%E4%B8%AD%E7%A7%8B%E8%8A%82/</link>
       <pubDate>Tue, 17 Sep 2024 23:25:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/%E4%B8%AD%E7%A7%8B%E8%8A%82/</guid>
+      <guid>https://yalyenea.github.io/posts/%E4%B8%AD%E7%A7%8B%E8%8A%82/</guid>
       
       <description>中秋节快乐！分享一首苏轼的西江月。
-西江月・世事一场大梦 世事一场大梦，人生几度秋凉？夜来风叶已鸣廊。看取眉头鬓上。 酒贱常愁客少，月明多被云妨。中秋谁与共孤光。把盏凄然北望。</description>
+西江月・世事一场大梦 世事一场大梦，人生几度秋凉？夜来风叶已鸣廊。看取眉头鬓上。 酒贱常愁客少，月明多被云妨。中秋谁与共孤光。把盏凄然北望。
+再分享一首歌，月从灯火来。</description>
       
     </item>
     
     <item>
       <title>Poem</title>
-      <link>http://localhost:1313/posts/poem/</link>
+      <link>https://yalyenea.github.io/posts/poem/</link>
       <pubDate>Mon, 01 Jul 2024 00:01:01 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/poem/</guid>
+      <guid>https://yalyenea.github.io/posts/poem/</guid>
       
       <description>春江花月夜 春江潮水连海平，海上明月共潮生。
 滟滟随波千万里，何处春江无月明！
